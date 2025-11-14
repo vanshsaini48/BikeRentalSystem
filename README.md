@@ -63,6 +63,34 @@ Open Terminal inside the project folder and run:
 
 -The Swing UI window will open.
 ---
+## 📸 Application Screenshots
+
+Below are screenshots showcasing different parts of the Kashmir Bike Rental System UI.
+
+### 🏠 Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### 🚲 Available Bikes
+![Bikes](screenshots/Bikes.png)
+
+### 🧍 Register Customer
+![Register Customer](screenshots/RegisterCustomer.png)
+![Register Customer (2)](screenshots/RegisterCustomer2.png)
+
+### 📝 Rental Process
+![Rent Screen](screenshots/Rent.png)
+![Rent Screen 2](screenshots/Rent2.png)
+![Rent Screen 3](screenshots/Rent3.png)
+![Rent Screen 4](screenshots/Rent4.png)
+
+### 🔄 Return Process
+![Return Screen](screenshots/Return.png)
+![Return Screen 2](screenshots/Return2.png)
+![Return Screen 3](screenshots/Return3.png)
+
+### 📚 Rental Records
+![Records](screenshots/Records.png)
+---
 ## Requirements
 
 Java 8+ (recommended: Java 11 or 17)
